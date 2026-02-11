@@ -4,7 +4,7 @@
 
 ### 📊 Veja minhas estatísticas
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kayronmagl&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=kayronmagl&theme=discord-old-blurple&hide_border=false&border_radius=12" height="400" alt="streak graph" />
 </div>
 
 ---
