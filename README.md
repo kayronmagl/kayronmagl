@@ -53,7 +53,7 @@
 
 ---
 
-### 🕹️ Animação Pac-Man
+### Minhas contribuições com animação do Pac-Man
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kayronmagl/kayronmagl/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kayronmagl/kayronmagl/output/pacman-contribution-graph.svg">
