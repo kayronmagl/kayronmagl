@@ -1,7 +1,5 @@
 <h2 align="left">Salveee, eu sou o Kayron! Técnico formado em ADS (Analise e Desenvolvimento de Sistemas - SENAI) & Computação em Nuvem - IFCE.</h2>
 
----
-
 ### -Veja minhas estatísticas
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kayronmagl&theme=discord-old-blurple&hide_border=false&border_radius=12" height="400" alt="streak graph" />
