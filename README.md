@@ -1,4 +1,4 @@
-<h2 align="left">Salveee, eu sou o Kayron! Técnico formado em ADS (Analise e Desenvolvimento de Sistemas - SENAI) & Computação em Nuvem - IFCE.</h2>
+<h2 align="left">Salveee, eu sou o Kayron! Técnico formado em Desenvolvimento de Sistemas - SENAI & Computação em Nuvem - IFCE.</h2>
 
 ### Veja minhas estatísticas
 <div align="center">
