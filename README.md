@@ -60,19 +60,35 @@ Sistema desenvolvido para a gestão interna do quiosque, eliminando o controle m
 ### Stacks que utilizo e tenho experiência
 
 <div align="center">
+<!-- FRONTEND -->
+<h3 style="color:#3b82f6; margin-bottom:6px;">Frontend</h3>
+<p style="margin-top:0;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" height="52" />
+</p>
 
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,js,react" height="65" />
+<!-- BACKEND -->
+<h3 style="color:#22c55e; margin-bottom:6px;">Backend</h3>
+<p style="margin-top:0;">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python" height="52" />
+</p>
 
-<br><br>
+<!-- CLOUD & DATA -->
+<h3 style="color:#a855f7; margin-bottom:6px;">Cloud & Data</h3>
+<p style="margin-top:0;">
+  <img src="https://skillicons.dev/icons?i=aws,supabase,sqlite" height="52" />
+</p>
 
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs" height="65" />
+<!-- DEV TOOLS -->
+<h3 style="color:#f59e0b; margin-bottom:6px;">Dev Tools</h3>
+<p style="margin-top:0;">
+  <img src="https://skillicons.dev/icons?i=git,postman" height="52" />
+</p>
 
-<br><br>
-
-**Nuvem & Ferramentas**  
-<img src="https://skillicons.dev/icons?i=aws,supabase,git,figma" height="65" />
+<!-- DESIGN -->
+<h3 style="color:#ef4444; margin-bottom:6px;">Design</h3>
+<p style="margin-top:0;">
+  <img src="https://skillicons.dev/icons?i=figma" height="52" />
+</p>
 
 </div>
 
