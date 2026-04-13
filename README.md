@@ -36,12 +36,12 @@ Técnico formado em Desenvolvimento de Sistemas - SENAI & Computação em Nuvem 
 
 🍔 1. Cardápio Digital - Tobias Lanches
 
-Sistema de cardápio digital responsivo para exibição de produtos de uma lanchonete com acesso via QR Code.
+Sistema de cardápio digital responsivo para simplificar processos.
 
 🔗 https://cardapio-digital-tobias-lanches.vercel.app/
 
 #### Objetivo
-Substituir cardápios físicos por uma interface digital leve e de atualização simples.
+Facilitar pedidos e eliminar atendimento demorado Via WhatsApp.
 
 #### Funcionalidades
 - Produtos organizados por categorias (lanches, bebidas, adicionais)
@@ -55,6 +55,7 @@ Substituir cardápios físicos por uma interface digital leve e de atualização
 - CSS
 - JavaScript
 - Deploy: Vercel
+- Banco de Dados & Backend: Supabase
 
 ---
 
@@ -80,11 +81,12 @@ Substituir controle manual por um sistema digital estruturado para organização
 - CSS
 - JavaScript
 - Deploy: Vercel
+- Banco de Dados & Backend: Supabase
 
 ---
 
 <!-- STACKS -->
-### Stacks que tenho experiência
+### Stacks que utilizo e tenho experiência
 
 <div align="center">
 
@@ -143,7 +145,7 @@ Substituir controle manual por um sistema digital estruturado para organização
 
 </details>
 
-<br>
+<br><br>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kayronmagl.kayronmagl&"  />
