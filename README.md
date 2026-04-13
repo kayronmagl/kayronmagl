@@ -73,13 +73,13 @@ Sistema desenvolvido para a gestão interna do quiosque, eliminando o controle m
 </p>
 
 <!-- CLOUD & DATA -->
-<h3 style="color:#a855f7; margin-bottom:6px;">Cloud & Data</h3>
+<h3 style="color:#a855f7; margin-bottom:6px;">Nuvem e Dados</h3>
 <p style="margin-top:0;">
   <img src="https://skillicons.dev/icons?i=aws,supabase,sqlite" height="52" />
 </p>
 
 <!-- DEV TOOLS -->
-<h3 style="color:#f59e0b; margin-bottom:6px;">Dev Tools</h3>
+<h3 style="color:#f59e0b; margin-bottom:6px;">Ferramentas de Desenvolvimento</h3>
 <p style="margin-top:0;">
   <img src="https://skillicons.dev/icons?i=git,postman" height="52" />
 </p>
