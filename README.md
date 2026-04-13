@@ -119,11 +119,15 @@ Substituir controle manual por um sistema digital estruturado para organização
     <b>Entre em contato:</b>
   </samp>
 
-  <br>
-
+  <br clear="both">
   <a href="mailto:kayronsouza99@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
     width="70" height="50" alt="Email" />
+  </a>
+  
+  <a href="https://www.instagram.com/kayronmagl">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+    width="70" height="50" alt="Instagram" />
   </a>
 
   <a href="https://www.linkedin.com/in/perfil-do-kayron-magalhães">
@@ -131,20 +135,21 @@ Substituir controle manual por um sistema digital estruturado para organização
     width="70" height="50" alt="LinkedIn" />
   </a>
 
-  <a href="https://www.instagram.com/kayronmagl">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-    width="70" height="50" alt="Instagram" />
-  </a>
-
   <a href="https://discord.com/users/1250928543760908369">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
     width="70" height="50" alt="Discord" />
   </a>
-
 </div>
 
 </details>
-<br><br>
+
+<br>
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kayronmagl.kayronmagl&"  />
+</div>
+
+<br>
 
 <!-- FOOTER -->
 <div>
