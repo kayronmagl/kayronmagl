@@ -11,13 +11,7 @@
 </a>
 </div>
 
-<br>
-
-<!-- SOBRE -->
-### Sobre
-Desenvolvedor focado em aplicações web e sistemas de gerenciamento. Experiência com frontend e projetos baseados em CRUD e interfaces responsivas.
-
----
+<br><br>
 
 <!-- ESTATÍSTICAS -->
 ### Estatísticas
