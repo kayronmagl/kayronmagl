@@ -7,8 +7,14 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=595959FF&width=435&lines=Bem-vindo+ao+meu+GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=595959FF&width=435&lines=Salveee%2C+me+chamo+Kayron;Dev+Web+%2B+Cloud+Computing" />
 </a>
+</div>
+
+<div align="center">
+<p>
+Técnico formado em Desenvolvimento de Sistemas - SENAI & Computação em Nuvem - IFCE
+</p>
 </div>
 
 <br><br>
