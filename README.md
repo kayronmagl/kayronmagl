@@ -1,54 +1,131 @@
-### Veja minhas estatísticas
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kayronmagl&theme=discord-old-blurple&hide_border=false&border_radius=12" height="400" alt="streak graph" />
+<!-- HEADER -->
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&theme=gruvbox&animation=Twinkling" />
 </div>
+
+<br>
+
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=595959FF&width=435&lines=Bem-vindo+ao+meu+GitHub!" />
+</a>
+</div>
+
+<br>
+
+<!-- SOBRE -->
+### Sobre
+Desenvolvedor focado em aplicações web e sistemas de gerenciamento. Experiência com frontend e projetos baseados em CRUD e interfaces responsivas.
 
 ---
 
-### Conecte-se comigo
+<!-- ESTATÍSTICAS -->
+### Estatísticas
 <div align="center">
-    <a href="https://www.linkedin.com/in/perfil-do-kayron-magalhães?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  />
-  </a>
-    <a href="https://wa.me/5588982140888" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="whatsapp logo"  />
-  </a>
-    <a href="https://www.instagram.com/kayronmagl?igsh=ZWJnMms4b3JyaGty" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="instagram logo"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=kayronmagl&theme=gruvbox&border_radius=12" height="180" />
 </div>
+
+<br>
+
+<!-- PROJETOS -->
+### Projetos
+
+🍔 1. Cardápio Digital - Tobias Lanches
+
+Sistema de cardápio digital responsivo para exibição de produtos de uma lanchonete com acesso via QR Code.
+
+🔗 https://cardapio-digital-tobias-lanches.vercel.app/
+
+#### Objetivo
+Substituir cardápios físicos por uma interface digital leve e de atualização simples.
+
+#### Funcionalidades
+- Produtos organizados por categorias (lanches, bebidas, adicionais)
+- Painel administrativo para gerenciamento de itens
+- Exibição dinâmica de nome, descrição e preço
+- Interface responsiva otimizada para mobile
+- Navegação direta por categorias
+
+#### Stack
+- HTML
+- CSS
+- JavaScript
+- Deploy: Vercel
 
 ---
 
-### Tecnologias que utilizo
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-</div>
+📦 2. Controle de Estoque
 
+Sistema web de controle de estoque para cadastro, edição e gerenciamento de produtos via navegador.
+
+🔗 https://controle-de-estoque-eta-orpin.vercel.app/
+
+#### Objetivo
+Substituir controle manual por um sistema digital estruturado para organização de produtos.
+
+#### Funcionalidades
+- Cadastro de produtos (CRUD)
+- Listagem dinâmica de itens
+- Edição de produtos
+- Remoção de itens
+- Controle de quantidade em estoque
+- Interface responsiva (mobile e desktop)
+
+#### Stack
+- HTML
+- CSS
+- JavaScript
+- Deploy: Vercel
 
 ---
 
-### Minhas contribuições com animação do Pac-Man
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kayronmagl/kayronmagl/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kayronmagl/kayronmagl/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kayronmagl/kayronmagl/output/pacman-contribution-graph.svg">
-</picture>
+<!-- STACKS -->
+### Stacks que tenho experiência
+
+<div align="center">
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="50" />
+
+<br><br>
+
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,py" height="50" />
+
+<br><br>
+
+**Cloud & Tools**  
+<img src="https://skillicons.dev/icons?i=aws,supabase,git,figma" height="50" />
+
+</div>
+
+<br>
+
+<!-- CONTATO -->
+
+### Contato
+
+<div align="center">
+  <a href="https://www.instagram.com/kayronmagl">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" />
+  </a>
+
+  <a href="mailto:kayronsouza99@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" />
+  </a>
+
+  <a href="https://discord.com/users/1250928543760908369">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/perfil-do-kayron-magalhães">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" />
+  </a>
+</div>
+
+<br><br>
+
+<!-- FOOTER -->
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=gruvbox&animation=Twinkling" />
+</div>
