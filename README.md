@@ -7,7 +7,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=535353&center=true&width=500&lines=Salveee%2C+meu+nome+%C3%A9+Kayron!;Desenvolvedor+Web+e+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=535353&center=true&width=500&lines=Salveee%2C+meu+nome+%C3%A9+Kayron!;" alt="Typing SVG" />
 </a>
 </div>
 
@@ -30,56 +30,29 @@ Técnico em Desenvolvimento de Sistemas (SENAI) e Computação em Nuvem (IFCE)
 <!-- PROJETOS -->
 ## Projetos
 
-🍔 1. Cardápio Digital - Tobias Lanches
+### Cardápio Digital — Tobias Lanches  
+Uma solução criada para organizar o atendimento do quiosque, substituindo PDFs estáticos por uma página onde o cliente escolhe o lanche e envia o pedido direto para o WhatsApp.
 
-Sistema de cardápio digital responsivo para simplificar processos.  
-Funciona como uma página web onde os produtos são carregados dinamicamente do banco de dados, permitindo atualização sem alterar o código.
+📄 Repositório: [https://github.com](https://github.com/kayronmagl/Cardapio-Digital)
 
-🔗 https://cardapio-digital-tobias-lanches.vercel.app/
-
-#### Objetivo
-Facilitar pedidos e eliminar atendimento demorado via WhatsApp, centralizando os produtos em uma interface acessível.
-
-#### Funcionalidades
-- Produtos organizados por categorias (lanches, bebidas, adicionais)
-- Painel administrativo para gerenciamento de itens (cadastro, edição e remoção)
-- Exibição dinâmica de nome, descrição e preço (dados vindos do backend)
-- Interface responsiva otimizada para mobile
-- Navegação direta por categorias
-
-#### Stack
-- HTML (estrutura da aplicação)
-- CSS (estilização e responsividade)
-- JavaScript (lógica e integração com API)
-- Deploy: Vercel (hospedagem)
-- Banco de Dados & Backend: Supabase (armazenamento e API)
+**Resumo**
+- Facilita a escolha do cliente com organização por categorias
+- Permite atualizar preços e itens sem precisar mexer no código
+- Funciona direto no navegador do celular de forma rápida
+- Envia o pedido pronto e formatado para o atendente
 
 ---
 
-📦 2. Controle de Estoque
+### Controle de Estoque — Tobias Lanches  
+Sistema desenvolvido para a gestão interna do quiosque, eliminando o controle manual em papel e garantindo que os dados de inventário estejam sempre seguros.
 
-Sistema web de controle de estoque para cadastro, edição e gerenciamento de produtos via navegador.  
-Os dados são persistidos em banco, permitindo controle contínuo sem perda de informação.
+📄 Repositório: [https://github.com](https://github.com/kayronmagl/Controle-de-Estoque)
 
-🔗 https://controle-de-estoque-eta-orpin.vercel.app/
-
-#### Objetivo
-Substituir controle manual por um sistema digital estruturado para organização de produtos.
-
-#### Funcionalidades
-- Cadastro de produtos (CRUD - criar, ler, atualizar e deletar)
-- Listagem dinâmica de itens (carregados do banco de dados)
-- Edição de produtos em tempo real
-- Remoção de itens
-- Controle de quantidade em estoque
-- Interface responsiva (mobile e desktop)
-
-#### Stack
-- HTML (estrutura)
-- CSS (layout e responsividade)
-- JavaScript (lógica e comunicação com backend)
-- Deploy: Vercel
-- Banco de Dados & Backend: Supabase
+**Resumo**
+- Controle rigoroso de entrada e saída de mercadorias
+- Histórico detalhado para saber quem mudou e por que mudou
+- Evita erros de contagem e duplicidade de produtos
+- Funciona como a base de dados para o cardápio digital
 
 ---
 
