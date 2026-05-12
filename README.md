@@ -33,7 +33,7 @@ Técnico em Desenvolvimento de Sistemas (SENAI) e Computação em Nuvem (IFCE)
 ### Cardápio Digital — Tobias Lanches  
 Uma solução criada para organizar o atendimento do quiosque, substituindo PDFs estáticos por uma página onde o cliente escolhe o lanche e envia o pedido direto para o WhatsApp.
 
-📄 Repositório: [https://github.com](https://github.com/kayronmagl/Cardapio-Digital)
+Repositório: [https://github.com](https://github.com/kayronmagl/Cardapio-Digital)
 
 **Resumo**
 - Facilita a escolha do cliente com organização por categorias
@@ -46,7 +46,7 @@ Uma solução criada para organizar o atendimento do quiosque, substituindo PDFs
 ### Controle de Estoque — Tobias Lanches  
 Sistema desenvolvido para a gestão interna do quiosque, eliminando o controle manual em papel e garantindo que os dados de inventário estejam sempre seguros.
 
-📄 Repositório: [https://github.com](https://github.com/kayronmagl/Controle-de-Estoque)
+Repositório: [https://github.com](https://github.com/kayronmagl/Controle-de-Estoque)
 
 **Resumo**
 - Controle rigoroso de entrada e saída de mercadorias
