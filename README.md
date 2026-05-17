@@ -43,19 +43,6 @@ Repositório: [https://github.com](https://github.com/kayronmagl/Cardapio-Digita
 
 ---
 
-### Controle de Estoque — Tobias Lanches  
-Sistema desenvolvido para a gestão interna do quiosque, eliminando o controle manual em papel e garantindo que os dados de inventário estejam sempre seguros.
-
-Repositório: [https://github.com](https://github.com/kayronmagl/Controle-de-Estoque)
-
-**Resumo**
-- Controle rigoroso de entrada e saída de mercadorias
-- Histórico detalhado para saber quem mudou e por que mudou
-- Evita erros de contagem e duplicidade de produtos
-- Funciona como a base de dados para o cardápio digital
-
----
-
 <!-- STACKS -->
 ### Stacks que utilizo e tenho experiência
 
