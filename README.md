@@ -26,8 +26,10 @@ Técnico em Desenvolvimento de Sistemas (SENAI) e Computação em Nuvem (IFCE)
 </div>
 
 <br>
+
 <!-- PROJETOS -->
-## Projetos
+
+### Projetos
 
 ### Cardápio Digital v2.0  
 A evolução do meu projeto de cardápio digital, pensada para entregar uma experiência mais completa tanto para quem faz o pedido quanto para quem administra o catálogo. Nesta versão, o sistema ficou mais sólido, responsivo e pronto para uso online, com uma estrutura mais madura para atualização de produtos e organização do atendimento.
