@@ -62,7 +62,7 @@ Repositório: [Projeto de Cardpio Digital](https://github.com/kayronmagl/Projeto
 <!-- FRONTEND -->
 <h3 style="color:#3b82f6; margin-bottom:6px;">Frontend</h3>
 <p style="margin-top:0;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" height="52" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="52" />
 </p>
 
 <!-- BACKEND -->
