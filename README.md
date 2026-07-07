@@ -36,7 +36,8 @@ A evolução do meu projeto de cardápio digital, pensada para entregar uma expe
 
 Repositório: [Cardapio Digital v2.0](https://github.com/kayronmagl/Cardapio-Digital-v2.0)
 
-**Resumo**
+**O que melhorou?**
+- Mais liberdade para personalizações de aparência e configurações
 - Organiza produtos, categorias, adicionais e combos de forma mais clara
 - Conta com painel administrativo para atualização de itens e configurações
 - Foi estruturado para funcionar bem em diferentes tamanhos de tela
@@ -49,11 +50,11 @@ A primeira versão do projeto, criada para organizar o atendimento do quiosque e
 
 Repositório: [Projeto de Cardpio Digital](https://github.com/kayronmagl/Projeto-de-Card-pio-Digital)
 
-**Resumo**
+**O que ele faz e resolve?**
 - Facilita a escolha do cliente com organização por categorias
 - Funciona de forma rápida no navegador do celular
 - Envia o pedido pronto e formatado para o atendente
-- Representa a primeira estrutura funcional que evoluiu para a versão 2.0
+- Resolve a dor da falta de rapidez no atendimento
 
 ---
 
