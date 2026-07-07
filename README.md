@@ -29,7 +29,7 @@ Técnico em Desenvolvimento de Sistemas (SENAI) e Computação em Nuvem (IFCE)
 
 <!-- PROJETOS -->
 
-### Projetos
+## Projetos
 
 ### Cardápio Digital v2.0  
 A evolução do meu projeto de cardápio digital, pensada para entregar uma experiência mais completa tanto para quem faz o pedido quanto para quem administra o catálogo. Nesta versão, o sistema ficou mais sólido, responsivo e pronto para uso online, com uma estrutura mais madura para atualização de produtos e organização do atendimento.
@@ -41,6 +41,8 @@ Repositório: [Cardapio Digital v2.0](https://github.com/kayronmagl/Cardapio-Dig
 - Conta com painel administrativo para atualização de itens e configurações
 - Foi estruturado para funcionar bem em diferentes tamanhos de tela
 - Mantém o foco em praticidade no atendimento e facilidade de evolução do sistema
+
+---
 
 ### Cardápio Digital — Tobias Lanches  
 A primeira versão do projeto, criada para organizar o atendimento do quiosque e substituir PDFs estáticos por uma página onde o cliente escolhe o lanche e envia o pedido direto para o WhatsApp. Foi a base que deu origem ao Cardápio Digital v2.0.
