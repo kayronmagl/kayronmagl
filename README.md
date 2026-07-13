@@ -59,7 +59,7 @@ Repositório: [Projeto de Cardpio Digital](https://github.com/kayronmagl/Projeto
 ---
 
 <!-- STACKS -->
-### Stacks que utilizo e tenho experiência
+### O que utilizo e tenho experiência
 
 <div align="center">
 <!-- FRONTEND -->
