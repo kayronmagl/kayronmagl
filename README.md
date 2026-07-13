@@ -153,169 +153,161 @@ Repositório: [Projeto de Cardápio Digital](https://github.com/kayronmagl/Proje
 
 <div align="center">
 
-<table width="100%" cellpadding="12">
-
-<tr>
-
-<td align="center" width="50%" valign="top">
-
 <h3>Frontend</h3>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://skillicons.dev/icons?i=html,js,react,tailwind,css,ts,nextjs&perline=4&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://skillicons.dev/icons?i=html,js,react,tailwind,css,ts,nextjs&perline=4&theme=light"
-  />
+<p>
   <img
-    src="https://skillicons.dev/icons?i=html,js,react,tailwind,css,ts,nextjs&perline=4&theme=dark"
+    src="https://skillicons.dev/icons?i=html,js,react,tailwind&theme=dark"
     height="52"
-    alt="HTML, JavaScript, React, Tailwind CSS, CSS, TypeScript e Next.js"
+    alt="HTML, JavaScript, React e Tailwind CSS"
   />
-</picture>
+</p>
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=css,ts,nextjs&theme=dark"
+    height="52"
+    alt="CSS, TypeScript e Next.js"
+  />
+</p>
+
+<p>
+  <img
+    src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=828282"
+    alt="shadcn/ui"
+  />
+</p>
 
 <br>
 
 <img
-  src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=828282"
-  alt="shadcn/ui"
+  width="55%"
+  height="1"
+  src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:5C5C5C,50:828282,100:5C5C5C"
+  alt=""
 />
 
-</td>
-
-<td align="center" width="50%" valign="top">
+<br>
 
 <h3>Backend</h3>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://skillicons.dev/icons?i=nestjs,nodejs&perline=2&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://skillicons.dev/icons?i=nestjs,nodejs&perline=2&theme=light"
-  />
+<p>
   <img
-    src="https://skillicons.dev/icons?i=nestjs,nodejs&perline=2&theme=dark"
+    src="https://skillicons.dev/icons?i=nestjs,nodejs&theme=dark"
     height="52"
     alt="NestJS e Node.js"
   />
-</picture>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="50%" valign="top">
-
-<h3>Nuvem e Dados</h3>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://skillicons.dev/icons?i=aws,supabase,mysql,sqlite&perline=4&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://skillicons.dev/icons?i=aws,supabase,mysql,sqlite&perline=4&theme=light"
-  />
-  <img
-    src="https://skillicons.dev/icons?i=aws,supabase,mysql,sqlite&perline=4&theme=dark"
-    height="52"
-    alt="AWS, Supabase, MySQL e SQLite"
-  />
-</picture>
+</p>
 
 <br>
 
 <img
-  src="https://img.shields.io/badge/Huawei%20Cloud-0D1117?style=flat-square&logo=huawei&logoColor=CF0A2C"
-  alt="Huawei Cloud"
+  width="55%"
+  height="1"
+  src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:5C5C5C,50:828282,100:5C5C5C"
+  alt=""
 />
 
-</td>
+<br>
 
-<td align="center" width="50%" valign="top">
+<h3>Nuvem e Dados</h3>
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=aws,supabase,mysql,sqlite&theme=dark"
+    height="52"
+    alt="AWS, Supabase, MySQL e SQLite"
+  />
+</p>
+
+<p>
+  <img
+    src="https://img.shields.io/badge/Huawei%20Cloud-0D1117?style=flat-square&logo=huawei&logoColor=CF0A2C"
+    alt="Huawei Cloud"
+  />
+</p>
+
+<br>
+
+<img
+  width="55%"
+  height="1"
+  src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:5C5C5C,50:828282,100:5C5C5C"
+  alt=""
+/>
+
+<br>
 
 <h3>Publicação</h3>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://skillicons.dev/icons?i=netlify,vercel&perline=2&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://skillicons.dev/icons?i=netlify,vercel&perline=2&theme=light"
-  />
+<p>
   <img
-    src="https://skillicons.dev/icons?i=netlify,vercel&perline=2&theme=dark"
+    src="https://skillicons.dev/icons?i=netlify,vercel&theme=dark"
     height="52"
     alt="Netlify e Vercel"
   />
-</picture>
+</p>
 
-</td>
+<br>
 
-</tr>
+<img
+  width="55%"
+  height="1"
+  src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:5C5C5C,50:828282,100:5C5C5C"
+  alt=""
+/>
 
-<tr>
-
-<td align="center" colspan="2" valign="top">
+<br>
 
 <h3>Ferramentas de Desenvolvimento</h3>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://skillicons.dev/icons?i=git,stackoverflow,postman,obsidian,github,notion&perline=6&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://skillicons.dev/icons?i=git,stackoverflow,postman,obsidian,github,notion&perline=6&theme=light"
-  />
+<p>
   <img
-    src="https://skillicons.dev/icons?i=git,stackoverflow,postman,obsidian,github,notion&perline=6&theme=dark"
+    src="https://skillicons.dev/icons?i=git,stackoverflow,postman&theme=dark"
     height="52"
-    alt="Git, Stack Overflow, Postman, Obsidian, GitHub e Notion"
+    alt="Git, Stack Overflow e Postman"
   />
-</picture>
+</p>
 
-</td>
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=obsidian,github,notion&theme=dark"
+    height="52"
+    alt="Obsidian, GitHub e Notion"
+  />
+</p>
 
-</tr>
+<br>
 
-<tr>
+<img
+  width="55%"
+  height="1"
+  src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:5C5C5C,50:828282,100:5C5C5C"
+  alt=""
+/>
 
-<td align="center" width="50%" valign="top">
+<br>
 
 <h3>Design</h3>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://skillicons.dev/icons?i=figma&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://skillicons.dev/icons?i=figma&theme=light"
-  />
+<p>
   <img
     src="https://skillicons.dev/icons?i=figma&theme=dark"
     height="52"
     alt="Figma"
   />
-</picture>
+</p>
 
-</td>
+<br>
 
-<td align="center" width="50%" valign="top">
+<img
+  width="55%"
+  height="1"
+  src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:5C5C5C,50:828282,100:5C5C5C"
+  alt=""
+/>
+
+<br>
 
 <h3>Referências visuais</h3>
 
@@ -328,9 +320,6 @@ Repositório: [Projeto de Cardápio Digital](https://github.com/kayronmagl/Proje
     src="https://img.shields.io/badge/CSS--Tricks-0D1117?style=flat-square&logo=css3&logoColor=1572B6"
     alt="CSS-Tricks"
   />
-</p>
-
-<p>
   <img
     src="https://img.shields.io/badge/Coolors-0D1117?style=flat-square&logoColor=828282"
     alt="Coolors"
@@ -340,12 +329,6 @@ Repositório: [Projeto de Cardápio Digital](https://github.com/kayronmagl/Proje
     alt="Uiverse"
   />
 </p>
-
-</td>
-
-</tr>
-
-</table>
 
 </div>
 
