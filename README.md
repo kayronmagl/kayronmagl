@@ -52,7 +52,7 @@
     />
   </picture>
 
-  
+  &nbsp;&nbsp;
 
   <picture>
     <source
@@ -340,9 +340,9 @@ Repositório: [Projeto de Cardápio Digital](https://github.com/kayronmagl/Proje
   />
 </a>
 
-<a href="mailto:kayronsouza99@gmail.com">
+<a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;to=kayronsouza99%40gmail.com">
   <img
-    src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=828282"
+    src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=828282"
     alt="Gmail"
   />
 </a>
