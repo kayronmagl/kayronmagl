@@ -284,7 +284,7 @@ Repositório: [Projeto de Cardápio Digital](https://github.com/kayronmagl/Proje
 <tr>
 <td align="center" valign="top">
 
-<h3 align="center">Referências visuais</h3>
+<h3 align="center">Minhas referências visuais</h3>
 
 <p align="center">
   <img
