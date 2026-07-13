@@ -52,7 +52,7 @@
     />
   </picture>
 
-  &nbsp;&nbsp;
+  
 
   <picture>
     <source
@@ -149,25 +149,17 @@ Repositório: [Projeto de Cardápio Digital](https://github.com/kayronmagl/Proje
 <h3 align="center">Frontend</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="50" alt="HTML" title="HTML" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="50" alt="CSS" title="CSS" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="50" alt="JavaScript" title="JavaScript" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="50" alt="TypeScript" title="TypeScript" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="50" alt="React" title="React" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="50" alt="Next.js" title="Next.js" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="50" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7&theme=dark"
+    height="50"
+    alt="HTML, CSS, JavaScript, TypeScript, React, Next.js e Tailwind CSS"
+  />
 </p>
 
 <p align="center">
   <img
     src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=FFFFFF"
-    height="28"
+    height="30"
     alt="shadcn/ui"
     title="shadcn/ui"
   />
@@ -186,9 +178,11 @@ Repositório: [Projeto de Cardápio Digital](https://github.com/kayronmagl/Proje
 <h3 align="center">Backend</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" height="50" alt="NestJS" title="NestJS" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="50" alt="Node.js" title="Node.js" />
+  <img
+    src="https://skillicons.dev/icons?i=nestjs,nodejs&perline=2&theme=dark"
+    height="50"
+    alt="NestJS e Node.js"
+  />
 </p>
 
 </td>
@@ -204,19 +198,17 @@ Repositório: [Projeto de Cardápio Digital](https://github.com/kayronmagl/Proje
 <h3 align="center">Nuvem e Dados</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="50" alt="AWS" title="Amazon Web Services" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="50" alt="Supabase" title="Supabase" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="50" alt="MySQL" title="MySQL" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="50" alt="SQLite" title="SQLite" />
+  <img
+    src="https://skillicons.dev/icons?i=aws,supabase,mysql,sqlite&perline=4&theme=dark"
+    height="50"
+    alt="AWS, Supabase, MySQL e SQLite"
+  />
 </p>
 
 <p align="center">
   <img
     src="https://img.shields.io/badge/Huawei%20Cloud-0D1117?style=flat-square&logo=huawei&logoColor=CF0A2C"
-    height="28"
+    height="30"
     alt="Huawei Cloud"
     title="Huawei Cloud"
   />
@@ -235,9 +227,11 @@ Repositório: [Projeto de Cardápio Digital](https://github.com/kayronmagl/Proje
 <h3 align="center">Publicação</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" height="50" alt="Netlify" title="Netlify" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="50" alt="Vercel" title="Vercel" />
+  <img
+    src="https://skillicons.dev/icons?i=netlify,vercel&perline=2&theme=dark"
+    height="50"
+    alt="Netlify e Vercel"
+  />
 </p>
 
 </td>
@@ -253,17 +247,11 @@ Repositório: [Projeto de Cardápio Digital](https://github.com/kayronmagl/Proje
 <h3 align="center">Ferramentas de Desenvolvimento</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="50" alt="Git" title="Git" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="GitHub" title="GitHub" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="50" alt="Postman" title="Postman" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" height="50" alt="Stack Overflow" title="Stack Overflow" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" height="50" alt="Obsidian" title="Obsidian" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="50" alt="Notion" title="Notion" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,postman,stackoverflow,obsidian,notion&perline=6&theme=dark"
+    height="50"
+    alt="Git, GitHub, Postman, Stack Overflow, Obsidian e Notion"
+  />
 </p>
 
 </td>
@@ -279,7 +267,11 @@ Repositório: [Projeto de Cardápio Digital](https://github.com/kayronmagl/Proje
 <h3 align="center">Design</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="50" alt="Figma" title="Figma" />
+  <img
+    src="https://skillicons.dev/icons?i=figma&perline=1&theme=dark"
+    height="50"
+    alt="Figma"
+  />
 </p>
 
 </td>
@@ -297,28 +289,28 @@ Repositório: [Projeto de Cardápio Digital](https://github.com/kayronmagl/Proje
 <p align="center">
   <img
     src="https://img.shields.io/badge/Dribbble-0D1117?style=flat-square&logo=dribbble&logoColor=EA4C89"
-    height="28"
+    height="30"
     alt="Dribbble"
     title="Dribbble"
   />
   &nbsp;
   <img
     src="https://img.shields.io/badge/CSS--Tricks-0D1117?style=flat-square&logo=css3&logoColor=1572B6"
-    height="28"
+    height="30"
     alt="CSS-Tricks"
     title="CSS-Tricks"
   />
   &nbsp;
   <img
     src="https://img.shields.io/badge/Coolors-0D1117?style=flat-square"
-    height="28"
+    height="30"
     alt="Coolors"
     title="Coolors"
   />
   &nbsp;
   <img
     src="https://img.shields.io/badge/Uiverse-0D1117?style=flat-square"
-    height="28"
+    height="30"
     alt="Uiverse"
     title="Uiverse"
   />
