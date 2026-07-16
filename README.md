@@ -104,7 +104,7 @@ Repositório: [Cardápio Digital v2.0](https://github.com/kayronmagl/Cardapio-Di
 * Mais liberdade para personalizações de aparência e configurações
 * Organiza produtos, categorias, adicionais e combos de forma mais clara e melhor do que antes
 * Conta com painel administrativo para atualização de itens, configurações e personalização
-* Foi estruturado para funcionar bem em diferentes tamanhos de tela
+* Foi melhor estruturado para funcionar bem em diferentes tamanhos de tela
 * Mantém o mesmo foco em praticidade no atendimento e facilidade de evoluir o sistema
 
 </td>
