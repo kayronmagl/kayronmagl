@@ -35,19 +35,18 @@
 <br>
 
 <div align="center">
-
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=kayronmagl&rank_icon=github&show_icons=true&count_private=true&hide_border=false&border_radius=12&border_color=5C5C5C&title_color=828282&icon_color=828282&text_color=B8B8B8&bg_color=0D1117"
+      srcset="https://github-stats-extended.vercel.app/api?username=kayronmagl&theme=dark"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=kayronmagl&rank_icon=github&show_icons=true&count_private=true&hide_border=false&border_radius=12&border_color=828282&title_color=5C5C5C&icon_color=5C5C5C&text_color=5C5C5C&bg_color=FFFFFF"
+      srcset="https://github-stats-extended.vercel.app/api?username=kayronmagl&theme=light"
     />
     <img
       width="43%"
-      src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=kayronmagl&rank_icon=github&show_icons=true&count_private=true&hide_border=false&border_radius=12&border_color=5C5C5C&title_color=828282&icon_color=828282&text_color=B8B8B8&bg_color=0D1117"
+      src="https://github-stats-extended.vercel.app/api?username=kayronmagl"
       alt="Estatísticas do GitHub"
     />
   </picture>
@@ -57,19 +56,18 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=kayronmagl&layout=compact&count_private=true&hide_border=false&border_radius=12&border_color=5C5C5C&title_color=828282&text_color=B8B8B8&bg_color=0D1117"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=kayronmagl&theme=dark&layout=compact"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=kayronmagl&layout=compact&count_private=true&hide_border=false&border_radius=12&border_color=828282&title_color=5C5C5C&text_color=5C5C5C&bg_color=FFFFFF"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=kayronmagl&theme=light&layout=compact"
     />
     <img
       width="43%"
-      src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=kayronmagl&layout=compact&count_private=true&hide_border=false&border_radius=12&border_color=5C5C5C&title_color=828282&text_color=B8B8B8&bg_color=0D1117"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=kayronmagl&layout=compact"
       alt="Linguagens mais utilizadas"
     />
   </picture>
-
 </div>
 
 <br>
