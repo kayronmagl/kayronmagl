@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=1000&color=828282&center=true&vCenter=true&width=600&height=55&lines=Salveee%2C+meu+nome+%C3%A9+Kayron!"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=828282&center=true&vCenter=true&width=600&height=55&lines=Salveee%2C+meu+nome+%C3%A9+Kayron!"
       alt="Salveee, meu nome é Kayron!"
     />
   </a>
@@ -45,7 +45,7 @@
       srcset="https://github-stats-extended.vercel.app/api?username=kayronmagl&theme=light"
     />
     <img
-      width="43%"
+      width="55%"
       src="https://github-stats-extended.vercel.app/api?username=kayronmagl"
       alt="Estatísticas do GitHub"
     />
@@ -63,7 +63,7 @@
       srcset="https://github-stats-extended.vercel.app/api/top-langs?username=kayronmagl&theme=light&layout=compact"
     />
     <img
-      width="43%"
+      width="55%"
       src="https://github-stats-extended.vercel.app/api/top-langs?username=kayronmagl&layout=compact"
       alt="Linguagens mais utilizadas"
     />
