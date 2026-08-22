@@ -18,7 +18,7 @@
 <div align="center">
   <p>
     <strong>
-      Técnico em Desenvolvimento de Sistemas (SENAI) e computação em nuvem (IFCE)
+      Técnico em Desenvolvimento de Sistemas (SENAI) e Computação em nuvem (IFCE)
     </strong>
   </p>
 </div>
